@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://free-giftcart-offers.vercel.app/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yourdomain.com/amazon-gift-card</loc>
+    <loc>https://free-giftcart-offers.vercel.app/amazon-gift-card</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yourdomain.com/daily-coupons</loc>
+    <loc>https://free-giftcart-offers.vercel.app/daily-coupons</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yourdomain.com/free-rewards</loc>
+    <loc>https://free-giftcart-offers.vercel.app/free-rewards</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
