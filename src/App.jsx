@@ -13,7 +13,6 @@ export default function App(){
           <Link to="/" className="logo">Daily Rewards</Link>
           <div className="nav-links">
             <Link to="/">Home</Link>
-            <a href="/sitemap.xml" target="_blank" rel="noreferrer">Sitemap</a>
           </div>
         </div>
       </nav>
