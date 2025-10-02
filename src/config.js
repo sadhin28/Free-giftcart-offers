@@ -1,2 +1,2 @@
-export const OFFER_LINK = 'https://your-adbluemedia-offer-link.com'
-export const BASE_URL = 'https://yourdomain.com'
+export const BASE_URL = import.meta.env.VITE_BASE_URL;
+export const OFFER_LINK = import.meta.env.VITE_OFFER_LINK;
