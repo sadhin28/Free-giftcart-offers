@@ -2,7 +2,6 @@ import React from 'react'
 import { Routes, Route, Link } from 'react-router-dom'
 import Home from './pages/Home'
 import Post from './pages/Post'
-import SitemapPage from './pages/SitemapPage'
 import RobotsPage from './pages/RobotsPage'
 
 export default function App(){
