@@ -1,8 +1,6 @@
-import React from 'react'
 import { Routes, Route, Link } from 'react-router-dom'
 import Home from './pages/Home'
 import Post from './pages/Post'
-import RobotsPage from './pages/RobotsPage'
 
 export default function App(){
   return (
@@ -20,8 +18,7 @@ export default function App(){
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/:slug" element={<Post />} />
-          <Route path="/sitemap.xml" element={<SitemapPage />} />
-          <Route path="/robots.txt" element={<RobotsPage />} />
+         
         </Routes>
       </main>
 
