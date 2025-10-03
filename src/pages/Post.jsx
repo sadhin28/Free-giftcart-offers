@@ -9,7 +9,6 @@ export default function Post(){
   const post = posts.find(p => p.slug === slug)
 
   if(!post) return <h2>Post not found</h2>
-  const OFFER_LINK=import.meta.env.VITE_OFFER_LINK;
   return (
     <article className="post">
       <Helmet>
@@ -20,7 +19,7 @@ export default function Post(){
       <h1>{post.title}</h1>
       <p>{post.content}</p>
 
-      <a href={OFFER_LINK} target="_blank" rel="noopener noreferrer" className="btn-claim">Claim Offer</a>
+      <a href='https://locked-content.com/?68d8722' target="_blank" rel="noopener noreferrer" className="btn-claim">Claim Offer</a>
     </article>
   )
 }
