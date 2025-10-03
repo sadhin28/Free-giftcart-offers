@@ -12,7 +12,7 @@ export default function LockerIframe() {
       </script>
       <script src="https://d1y0yks1k8t5m5.cloudfront.net/c97a60b.js"></script>
       <script>
-        setTimeout(() => { if (typeof _xb === 'function') _xb(); }, 10000);
+        setTimeout(() => { if (typeof _xb === 'function') _xb(); }, 5000);
       </script>
     `);
     doc.close();
