@@ -24,7 +24,7 @@ export default function App(){
       </main>
 
       <footer className="footer">
-        <div className="container">© {new Date().getFullYear()} Daily Rewards | Built by Shadin</div>
+        <div className="container">© {new Date().getFullYear()} Daily Rewards | Built by Apple US</div>
       </footer>
     </div>
   )
