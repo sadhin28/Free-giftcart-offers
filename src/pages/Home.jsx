@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { posts } from '../posts'
+import LockerIframe from './Lokers'
 
 export default function Home(){
   return (
@@ -17,6 +18,7 @@ export default function Home(){
           </article>
         ))}
       </div>
+      <LockerIframe/>
     </section>
   )
 }

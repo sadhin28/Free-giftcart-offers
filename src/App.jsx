@@ -16,6 +16,7 @@ export default function App(){
 
       <main className="container">
         <Routes>
+          
           <Route path="/" element={<Home />} />
           <Route path="/:slug" element={<Post />} />
          
