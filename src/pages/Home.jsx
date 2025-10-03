@@ -5,7 +5,7 @@ import { posts } from '../posts'
 export default function Home(){
   return (
     <section className="home">
-      <h1>ফ্রি রিওয়ার্ড & কুপন ব্লগ</h1>
+      <h1>ফ্রি রিওয়ার্ড এবং কুপন ব্লগ</h1>
       <p>ফ্রি গিফট কার্ড, কুপন এবং রিওয়ার্ড পাওয়ার সহজ উপায়</p>
 
       <div className="posts bg-red-200">
