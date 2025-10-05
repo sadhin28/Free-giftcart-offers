@@ -7,7 +7,7 @@ body{ font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', R
 .nav{ background:#fff; border-bottom:1px solid #e5e7eb; }
 .nav .container{ display:flex; align-items:center; justify-content:space-between; }
 .logo{ font-weight:700; color:var(--accent); text-decoration:none; }
-.nav-links a{ margin-left:12px; text-decoration:none; color:#374151; }
+.nav-links a{ margin-left:12px; text-decoration:none; color:#1952ae; }
 .home h1{ font-size:28px; color:#111827; }
 .posts{ display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; margin-top:20px;}
 .card{ background:#fff; padding:16px; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.04); }
